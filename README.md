@@ -1,1 +1,1 @@
-# Tugas-ke-6-kriptografy
+# Tugas-ke-6-kriptografi
